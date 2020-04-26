@@ -1,0 +1,1 @@
+<span style="color: <?=$color?>">Привет из виджета</span>
